@@ -24,13 +24,13 @@
 
 <a>
 
-<img align="center" height="50" width="100" src="https://miro.medium.com/max/1200/1*qnro_BOCnBQDQg9dMUGp-A.png">
+<img align="center" height="30" width="90" src="https://miro.medium.com/max/1200/1*qnro_BOCnBQDQg9dMUGp-A.png">
 
 </a>
 
 <a>
 
-<img align="center" height="40" width="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF4Dg6IRIZHLJibLgbGFnD4hakkOt1QqbkOGPYotLMh2y_5bNpIZsh7E-S7txm1U_FbA&usqp=CAU">
+<img align="center" height="30" width="90" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF4Dg6IRIZHLJibLgbGFnD4hakkOt1QqbkOGPYotLMh2y_5bNpIZsh7E-S7txm1U_FbA&usqp=CAU">
 
 </a>
 
