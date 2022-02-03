@@ -1,4 +1,4 @@
-# Projeto-Bank-Sirius :dollar:
+# Projeto-Bank-Sirius  :dollar:
 
 ## Aplicativo Banco Sirius 24h
  
@@ -37,5 +37,5 @@
 
 ## Template
 
-:moneybag: [Telas]()
+:moneybag: [Telas](https://github.com/mariaeugenia907/Projeto-Bank-Sirius/tree/main/scr_telas)
 
