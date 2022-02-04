@@ -6,7 +6,7 @@
 
 ## Objetivo
 
-:coin: Realizar transferencias seguras de um dispositivo móvel, a qualquer hora e de qualquer instituição financeira.
+:coin: Realizar transferencias seguras de um dispositivo móvel, a qualquer hora, e para qualquer instituição financeira.
 
 ## Tecnologias utilizadas 
 
