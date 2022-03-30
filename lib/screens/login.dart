@@ -35,7 +35,7 @@ class LoginState extends State<Login> {
                     Ag = text;
                   },
                   decoration: InputDecoration(
-                    labelText: 'Ag:',
+                    labelText: 'Agência:',
                     border: OutlineInputBorder(),
                   ),
                 ),
