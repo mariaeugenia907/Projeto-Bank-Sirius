@@ -1,3 +1,9 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et lobortis diam. Nunc hendrerit sapien id urna facilisis, a ultrices dui tempus. Etiam sagittis, enim ut ultrices mattis, odio leo suscipit nisi, sed feugiat nunc diam id justo. Nam placerat urna vel gravida malesuada. Vestibulum ligula lacus, porta sit amet eros ac, dignissim mollis neque. Integer hendrerit lorem quis tortor vehicula feugiat. Duis placerat cursus augue eu auctor. Phasellus egestas eleifend leo ut porta. Fusce diam nunc, vulputate et feugiat id, lobortis et libero. Donec aliquam justo urna, sit amet auctor risus convallis congue. Nullam at justo ut nisi suscipit aliquam non ac ex. Quisque sit amet ultrices ante. Cras fringilla lacus vel est dapibus aliquam. In scelerisque ullamcorper egestas. Nullam nec convallis sapien. Praesent posuere suscipit maximus.
 
-Mauris mattis sit amet massa ullamcorper hendrerit. Suspendisse dignissim tellus massa, eget aliquam felis porttitor tincidunt. Nunc ut tincidunt eros. Etiam convallis, ante non venenatis semper, ligula lorem mattis est, facilisis porta nibh turpis non velit. Pellentesque rhoncus semper posuere. Nunc at nisi porttitor, laoreet nisi consequat, ultrices purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer consequat tempus ligula id iaculis. Nunc euismod nec odio ac congue. Donec vestibulum justo mauris, vel hendrerit leo lobortis vel. Aenean eros est, pulvinar nec rhoncus sit amet, porta a lectus. In bibendum orci lectus, vel eleifend ante auctor quis.
+We are delighted to have you among us. On behalf of all the members and the management, we would like to extend our warmest welcome and good wishes!
+
+Welcome to the team! We are thrilled to have you at our office. You’re going to be a valuable asset to our company, and we can’t wait to see all that you accomplish.
+
+The entire team of [name of the company] is thrilled to welcome you on board. We hope you’ll do some amazing works here!
+
+A warm welcome and lots of good wishes on becoming part of our growing team. Congratulations and on behalf of all the members. We are all happy and excited about your inputs and contribution to our company.
+
